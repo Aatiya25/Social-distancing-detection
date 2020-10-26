@@ -1,0 +1,17 @@
+image_parameters:
+  height_og: 800
+  img_path: /Users/aatiyachaudhary/Desktop/Aatiya_thesis/source/static_frame_from_video.jpg
+  p1:
+  - 705
+  - 98
+  p2:
+  - 711
+  - 598
+  p3:
+  - 153
+  - 92
+  p4:
+  - 134
+  - 533
+  size_frame: '800'
+  width_og: 600
